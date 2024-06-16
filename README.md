@@ -11,7 +11,7 @@ This is a mini CRUD panel built with Laravel that includes role-based access con
 - **Buyer**: Can view their own statistics and manage their own entities.
 
 ## Requirements
-
+- Laravel 8
 - PHP 7.3 or higher
 - Composer
 - Node.js and npm
