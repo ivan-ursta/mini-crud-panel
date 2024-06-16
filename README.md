@@ -81,6 +81,8 @@ This is a mini CRUD panel built with Laravel that includes role-based access con
    The application will be accessible at `http://localhost:8000`.
 
 ## Usage
+### After db seed you can check all users in db (I use HeidiSQL in Ubuntu)
+### Password for all users: password
 
 ### Admin
 
